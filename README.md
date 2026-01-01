@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Sai Teja 👋
 
-<!--
-**daggusaiteja961911/daggusaiteja961911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java Backend Developer with 1+ year of experience building RESTful services using Spring Boot.
 
-Here are some ideas to get you started:
+### 💻 Tech Stack
+- Java, Spring Boot
+- REST APIs, JPA/Hibernate
+- Kafka (basic integration)
+- JUnit 5, Mockito
+- MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 What I Do
+- Build clean and scalable backend services
+- Write unit-tested, maintainable code
+- Follow layered architecture and best practices
+
+### 📂 Projects
+Check my repositories for real-world backend projects.
